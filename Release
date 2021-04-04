@@ -1,0 +1,12 @@
+Origin: 0tcQd's Emporium of Tweaks
+Label: 0tcQd's Emporium of Tweaks
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: contains a few tweaks I created.
+
+SHA256:
+ 2b36ec91cae0fa48573221c55d7de2136d8e35d91c7d1ca6c5f5dcc937c244e8 790 Packages.bz2
+ 9d68e39da7e88691437a418e10f73f3683f1950d5ccba342aac339cdc36354fd 752 Packages.xz
